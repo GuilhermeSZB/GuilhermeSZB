@@ -1,13 +1,14 @@
 <h1 align="center">👋 Olá, eu sou Guilherme Szabo</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
+💻 Desenvolvedor em formação com foco em Python, JavaScript, Desenvolvimento Web e Engenharia de Software.
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/GuilhermeSZB">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +31,7 @@ Atualmente estou focado em desenvolvimento web, engenharia de software e constru
 
 ### Linguagens e Tecnologias
 
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square\&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square\&logo=css3)
@@ -89,5 +91,6 @@ Atualmente estou focado em desenvolvimento web, engenharia de software e constru
   </a>
 </p>
 
+---
 
 > ⚡ *"A tecnologia transforma o mundo. O aprendizado contínuo impulsiona essa transformação."*
