@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Guilherme Szabo</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação com foco em Python, Java, JavaScript, Desenvolvimento de Software e Engenharia de Software.
+💻 Desenvolvedor em formação com foco em Python, Java, Portugol, Desenvolvimento de Software e Engenharia de Software.
 </p>
 
 <p align="center">
@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portugol-008080?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -22,7 +22,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades técnicas e aprender novas tecnologias.
 
-Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de projetos utilizando Python, Java e JavaScript, buscando aplicar boas práticas de programação, lógica e arquitetura de software.
+Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de projetos utilizando Python, Java e lógica de programação, buscando aplicar boas práticas de programação, resolução de problemas e fundamentos da engenharia de software.
 
 ---
 
@@ -31,8 +31,8 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 ### Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square\&logo=python)
-![Java](https://img.shields.io/badge/Java-20232A?style=flat-square\&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square\&logo=javascript)
+![Java](https://img.shields.io/badge/Java-20232A?style=flat-square\&logo=java)
+![Portugol](https://img.shields.io/badge/Portugol-20232A?style=flat-square\&logo=code)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square\&logo=mysql)
 
 ### Ferramentas
@@ -48,7 +48,7 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 * 🚀 Desenvolvendo projetos para fortalecer meu portfólio
 * ☕ Estudando Java e Programação Orientada a Objetos
 * 🐍 Aprimorando conhecimentos em Python
-* 🌐 Desenvolvendo aplicações e explorando novas tecnologias
+* 🧠 Praticando lógica de programação com Portugol
 * 📖 Evoluindo meus conhecimentos em Engenharia de Software
 
 ---
