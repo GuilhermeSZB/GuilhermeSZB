@@ -8,11 +8,17 @@
   <a href="https://github.com/GuilhermeSZB">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portugol-008080?style=for-the-badge&logo=code&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Portugol-Lógica%20de%20Programação-008080?style=for-the-badge&logo=bookstack&logoColor=white" />
+
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
@@ -22,7 +28,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades técnicas e aprender novas tecnologias.
 
-Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de projetos utilizando Python, Java e lógica de programação, buscando aplicar boas práticas de programação, resolução de problemas e fundamentos da engenharia de software.
+Atualmente curso Engenharia de Software e estou focado no desenvolvimento de projetos utilizando Python e Java, fortalecendo minha lógica de programação, orientação a objetos e fundamentos da engenharia de software.
 
 ---
 
@@ -30,16 +36,22 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 
 ### Linguagens e Tecnologias
 
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square\&logo=python)
-![Java](https://img.shields.io/badge/Java-20232A?style=flat-square\&logo=java)
-![Portugol](https://img.shields.io/badge/Portugol-20232A?style=flat-square\&logo=code)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square\&logo=mysql)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python)
+
+![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk)
+
+![Portugol](https://img.shields.io/badge/Portugol-Lógica%20de%20Programação-20232A?style=flat-square&logo=bookstack)
+
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql)
+
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=flat-square\&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=flat-square&logo=visualstudiocode)
 
 ---
 
@@ -49,6 +61,7 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 * ☕ Estudando Java e Programação Orientada a Objetos
 * 🐍 Aprimorando conhecimentos em Python
 * 🧠 Praticando lógica de programação com Portugol
+* 🗄️ Trabalhando com bancos de dados utilizando MySQL
 * 📖 Evoluindo meus conhecimentos em Engenharia de Software
 
 ---
@@ -58,16 +71,19 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 * Construir soluções eficientes e escaláveis
 * Evoluir continuamente como desenvolvedor
 * Criar projetos que demonstrem minhas habilidades técnicas
-* Contribuir para projetos colaborativos
-* Expandir conhecimentos em arquitetura e desenvolvimento de software
+* Desenvolver boas práticas de programação
+* Expandir conhecimentos em arquitetura e engenharia de software
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSZB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSZB&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSZB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSZB&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </p>
 
 ---
@@ -75,7 +91,9 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeSZB&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=GuilhermeSZB&theme=github-dark-blue&hide_border=true" />
+
 </p>
 
 ---
@@ -83,17 +101,19 @@ Atualmente estou cursando Engenharia de Software e focado no desenvolvimento de 
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://github.com/GuilhermeSZB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/guilherme-szabo-892a24337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/GuilhermeSZB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="mailto:szaboguilherme21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/guilherme-szabo-892a24337/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:szaboguilherme21@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
