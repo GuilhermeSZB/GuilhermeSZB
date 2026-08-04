@@ -77,13 +77,12 @@ Atualmente curso Engenharia de Software e estou focado no desenvolvimento de pro
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSZB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSZB&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSZB&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSZB&layout=compact&theme=dark&hide_border=true" />
+</p>
 ---
 
 ## 🔥 Streak
