@@ -36,22 +36,20 @@ Atualmente curso Engenharia de Software e estou focado no desenvolvimento de pro
 
 ### Linguagens e Tecnologias
 
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python)
-
-![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk)
-
-![Portugol](https://img.shields.io/badge/Portugol-Lógica%20de%20Programação-20232A?style=flat-square&logo=bookstack)
-
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql)
-
+<p>
+  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Portugol-Lógica%20de%20Programação-20232A?style=flat-square&logo=bookstack" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql" />
+</p>
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=flat-square&logo=visualstudiocode)
+<p>
+  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-20232A?style=flat-square&logo=visualstudiocode" />
+</p>
 
 ---
 
